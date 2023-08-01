@@ -84,7 +84,7 @@ profile_default/
 ipython_config.py
 
 #csv 
-.csv
+
 # pyenv
 nlp_env/
 #   For a library or package, you might want to ignore these files since the code is

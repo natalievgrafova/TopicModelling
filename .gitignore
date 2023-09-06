@@ -83,7 +83,11 @@ target/
 profile_default/
 ipython_config.py
 
+#notebooks 
+.ipynb
 #csv 
+.csv
+.txt
 
 # pyenv
 nlp_env/
@@ -164,3 +168,5 @@ cython_debug/
 #.idea/
 fr_articles.csv
 nl_articles.csv
+aclImdb/test/neg/0_2.txt
+aclImdb/test/neg/1_3.txt
